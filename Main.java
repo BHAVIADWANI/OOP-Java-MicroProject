@@ -1,5 +1,3 @@
-package MicroProject;
-
 import javax.swing.SwingUtilities;
 // Removed unused import
 
