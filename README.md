@@ -1,4 +1,4 @@
-# E-Commerce GUI Application
+# SIMPLE E-COMMERCE SYSTEM
 
 This project is a simple e-commerce system implemented in Java using Swing for the graphical user interface (GUI). It allows users to view products, add them to a shopping cart, remove items from the cart, and proceed to checkout.
 
